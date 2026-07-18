@@ -53,15 +53,6 @@ https://cad.onshape.com/documents/bf6c9331e10b2f497c7a0906/w/78af71e815491c0c170
 
 ---
 
-##  Preview
-
-You can add a screenshot of your final design here after uploading it to GitHub.
-
-Example:
-
-![Apple Keychain](apple-preview.png)
-
----
 
 ##  Learning Outcomes
 
