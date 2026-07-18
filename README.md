@@ -40,10 +40,6 @@ This project recreates the Apple logo as a 3D printable keychain. The model was 
 Project Link:
 
 
-https://cad.onshape.com/documents/bf6c9331e10b2f497c7a0906/w/78af71e815491c0c1705fba7/e/90cb2592a0d77c0dff58b86d?renderMode=0&uiState=6a5bd7cffb9b884c4aa7fff0
-
-another link:
-
 
 https://cad.onshape.com/documents/bf6c9331e10b2f497c7a0906/w/78af71e815491c0c1705fba7/e/90cb2592a0d77c0dff58b86d
 
